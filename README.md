@@ -1,2 +1,2 @@
 # py_collatz_conjecture
-A python program that implements Lothar Collatz's conjecture.
+A python program that tests Lothar Collatz's conjecture.
